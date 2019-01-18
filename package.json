@@ -1,0 +1,23 @@
+{
+  "name": "earphones-bluetooth-connect",
+  "version": "0.0.1",
+  "description": "Bluetooth connector for headphones",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluetooth",
+    "earphone",
+    "headphone",
+    "windows"
+  ],
+  "author": "OPEOP",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-bluetooth": "^1.2.5",
+    "node-gyp": "^3.8.0"
+  }
+}
