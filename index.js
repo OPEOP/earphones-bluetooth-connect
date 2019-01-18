@@ -7,6 +7,8 @@ const address = '18:07:31:32:10:70';
 let channel = 1;
 
 device.listPairedDevices(list => {
+    console.log(list)
+    
     const item = list.find(val => val.name === name);
 
     if (item) {
