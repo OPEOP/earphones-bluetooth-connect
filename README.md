@@ -12,11 +12,11 @@ For getting the name and the address you need to run in cmd "npm run start" that
 
 [ 
   { name: 'Mi Bluetooth Speaker',
-    address: 'E8:07:BF:03:32:DB',
+    address: 'E9:07:BF:33:32:RB',
     services: [] },
-  { name: 'T energy', address: '18:07:23:33:10:BD', services: [] },
+  { name: 'T energy', address: '18:17:23:33:13:BD', services: [] },
   { name: 'T6',
-    address: '18:07:31:32:10:70',
+    address: '18:17:31:32:00:71',
     services: []}
 ]
 
